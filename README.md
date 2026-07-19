@@ -181,6 +181,3 @@ I use AI every day—not just as a tool, but as a learning companion. Whether it
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshithapuchalapali&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
