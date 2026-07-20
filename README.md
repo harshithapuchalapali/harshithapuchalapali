@@ -158,14 +158,6 @@ your-email@example.com
 💼 **LinkedIn**  
 https://www.linkedin.com/in/harshitha-puchalapalli/
 
-💛 **LeetCode**  
-https://leetcode.com/u/Harshitha_puchalapalli/
-
-🍛 **CodeChef**  
-https://www.codechef.com/users/harshitha_pr
-
-🏆 **HackerRank**  
-https://www.hackerrank.com/profile/harshitha_pr
 
 ---
 
