@@ -115,13 +115,13 @@ https://tirumula.pages.dev
 
 # 💻 Coding Profiles
 
-💛 **LeetCode**  
+**LeetCode**  
 https://leetcode.com/u/Harshitha_puchalapalli/
 
-🍛 **CodeChef**  
+**CodeChef**  
 https://www.codechef.com/users/harshitha_pr
 
-🏆 **HackerRank**  
+**HackerRank**  
 https://www.hackerrank.com/profile/harshitha_pr
 
 ---
@@ -152,10 +152,10 @@ https://www.hackerrank.com/profile/harshitha_pr
 
 # 📫 Connect With Me
 
-📧 **Email**  
+**Email**  
 your-email@example.com
 
-💼 **LinkedIn**  
+**LinkedIn**  
 https://www.linkedin.com/in/harshitha-puchalapalli/
 
 
