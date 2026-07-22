@@ -71,16 +71,16 @@ A full-stack web application built to streamline **inventory management** and **
 
 ### ✨ Key Features
 
-- 🛒 Public product catalog for customers
-- 💼 Admin dashboard for inventory and sales management
-- 🧾 Point of Sale (POS) billing system
-- 📦 Automatic inventory updates after each sale
-- 📊 Daily sales statistics and business insights
-- 🔍 Product search, sorting, and category filtering
-- 🟢 Real-time stock status indicators
-- 🌙 Dark mode with a responsive user interface
-- 📄 PDF invoice generation using **jsPDF** and **AutoTable**
-- 💰 Instant grand total calculation during billing
+- Public product catalog for customers
+- Admin dashboard for inventory and sales management
+- Point of Sale (POS) billing system
+- Automatic inventory updates after each sale
+- Daily sales statistics and business insights
+- Product search, sorting, and category filtering
+- Real-time stock status indicators
+- Dark mode with a responsive user interface
+- PDF invoice generation using **jsPDF** and **AutoTable**
+- Instant grand total calculation during billing
 
 ### 🏗️ Architecture
 
@@ -107,9 +107,9 @@ https://tirumula.pages.dev
 
 # 🌱 Currently Learning
 
-- 📚 Data Structures & Algorithms
-- ⚙️ Backend Development
-- 🤖 Exploring AI integration into modern software applications
+- Data Structures & Algorithms
+- Backend Development
+- Exploring AI integration into modern software applications
 
 ---
 
@@ -142,11 +142,11 @@ https://www.hackerrank.com/profile/harshitha_pr
 
 # 🎯 2026 Goals
 
-- 📚 Strengthen my Data Structures & Algorithms skills
-- ⚙️ Build scalable backend applications
-- 🤖 Explore AI integration in software development
-- 🌍 Contribute to open-source projects
-- 💼 Secure a Software Engineering role where I can contribute, learn, and grow as a developer.
+- Strengthen my Data Structures & Algorithms skills
+- Build scalable backend applications
+- Explore AI integration in software development
+- Contribute to open-source projects
+- Secure a Software Engineering role where I can contribute, learn, and grow as a developer.
 
 ---
 
