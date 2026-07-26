@@ -135,7 +135,7 @@ https://www.hackerrank.com/profile/harshitha_pr
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithapuchalapali&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=harshithapuchalapali&theme=tokyonight"/>
 </p>
 
 ---
