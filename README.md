@@ -10,13 +10,13 @@ I believe technology is most impactful when it solves real-world problems, and I
 
 # 👩‍💻 About Me
 
-- 🎓 **B.Tech in Electronics and Communication Engineering (ECE)**
-- 🏫 **Sri Venkateswara College of Engineering**
-- 📍 **Tirupati, Andhra Pradesh, India**
-- 🌱 Currently learning **Data Structures & Algorithms** and **Backend Development**
-- 🤖 Passionate about **Software Development**, **Artificial Intelligence**, and building real-world applications
-- 💡 I enjoy solving problems, exploring new technologies, and finding ways to integrate AI into software solutions.
-- 🎯 **Career Goal:** To grow into a skilled Software Engineer, continuously learning new technologies and exploring Artificial Intelligence to build meaningful and impactful software solutions.
+- **B.Tech in Electronics and Communication Engineering (ECE)**
+- **Sri Venkateswara College of Engineering**
+- **Tirupati, Andhra Pradesh, India**
+- Currently learning **Data Structures & Algorithms** and **Backend Development**
+- Passionate about **Software Development**, **Artificial Intelligence**, and building real-world applications
+- I enjoy solving problems, exploring new technologies, and finding ways to integrate AI into software solutions.
+- **Career Goal:** To grow into a skilled Software Engineer, continuously learning new technologies and exploring Artificial Intelligence to build meaningful and impactful software solutions.
 
 ---
 
