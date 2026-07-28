@@ -126,16 +126,16 @@ https://www.hackerrank.com/profile/harshitha_pr
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshithapuchalapali&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshithapuchalapali&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithapuchalapali&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithapuchalapali&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshithapuchalapali&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=harshithapuchalapali&theme=tokyonight" />
 </p>
 
 ---
