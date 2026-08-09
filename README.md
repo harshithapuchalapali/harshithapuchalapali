@@ -94,7 +94,7 @@ The application follows a clean multi-layer architecture:
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - Supabase
 - jsPDF
 - jsPDF AutoTable
