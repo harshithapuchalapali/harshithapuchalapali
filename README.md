@@ -101,7 +101,7 @@ The application follows a clean multi-layer architecture:
 
 ### 🌐 Live Demo
 
-https://tirumula.pages.dev
+[https://tirumula.pages.dev](https://tirumula.pages.dev/)
 
 ---
 
